@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Imagem 1 dashboard" src="https://github.com/user-attachments/assets/569692ca-1314-48ec-b7db-db1da68d2c03" /># 📊 Dashboard Operacional & Controle de SLA (PRs)
+# 📊 Dashboard Operacional & Controle de SLA (PRs)
 
 > **Projeto desenvolvido para otimização do fluxo de trabalho da equipe de TI da CF Contabilidade.**
 
