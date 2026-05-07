@@ -3,6 +3,9 @@
 > **Projeto desenvolvido para otimização do fluxo de trabalho da equipe de TI da CF Contabilidade.**
 
 Este dashboard foi criado com o objetivo de centralizar e automatizar o controle de Pull Requests (PRs) e cadastros, substituindo processos manuais por uma interface de Business Intelligence em tempo real. O projeto foca em dar visibilidade à capacidade de entrega do time e garantir o cumprimento dos SLAs acordados.
+<img src="https://github.com/user-attachments/assets/415758a5-151d-405d-971c-238ef13188c7" width="100%" />
+<img src="https://github.com/user-attachments/assets/c14681bb-cf7c-48da-8eae-da9a8d89b6dd" width="100%" />
+<img src="https://github.com/user-attachments/assets/95dbd491-b435-41bf-af35-63e2390e7290" width="100%" />
 
 ## 🎯 O Desafio
 A equipe de TI precisava de uma forma rápida de identificar gargalos, tarefas vencendo no dia e pendências de contratos que impediam a finalização dos cadastros. Sob a orientação do Head de TI (Felipe), desenvolvi esta solução para automatizar esse monitoramento.
