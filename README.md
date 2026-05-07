@@ -1,17 +1,20 @@
-# 📊 Dashboard Operacional & Controle de SLA (PRs)
+<img width="1920" height="1080" alt="Imagem 1 dashboard" src="https://github.com/user-attachments/assets/569692ca-1314-48ec-b7db-db1da68d2c03" /># 📊 Dashboard Operacional & Controle de SLA (PRs)
 
 > **Projeto desenvolvido para otimização do fluxo de trabalho da equipe de TI da CF Contabilidade.**
 
 Este dashboard foi criado com o objetivo de centralizar e automatizar o controle de Pull Requests (PRs) e cadastros, substituindo processos manuais por uma interface de Business Intelligence em tempo real. O projeto foca em dar visibilidade à capacidade de entrega do time e garantir o cumprimento dos SLAs acordados.
 
 ### 📈 Visão Geral e Métricas
-<img src="..." width="100%" />
+<img width="1920" height="1080" alt="Imagem 1 dashboard" src="https://github.com/user-attachments/assets/1f3f55eb-04c1-4511-a9c0-e3a166d24489" />
+
 
 ### 🎯 Fila Crítica e Controle de SLA
-<img src="..." width="100%" />
+<img width="1920" height="1080" alt="Imagem 2 dashboard" src="https://github.com/user-attachments/assets/54796e7a-47c1-4493-bbc2-d0197debc47a" />
+
 
 ### 🏆 Ranking e Performance do Time
-<img src="..." width="100%" />
+<img width="1920" height="1080" alt="Imagem 3 dashboard" src="https://github.com/user-attachments/assets/6828e410-81f6-46cf-8949-f35cd35a90d7" />
+
 
 ## 🎯 O Desafio
 A equipe de TI precisava de uma forma rápida de identificar gargalos, tarefas vencendo no dia e pendências de contratos que impediam a finalização dos cadastros. Sob a orientação do Head de TI (Felipe), desenvolvi esta solução para automatizar esse monitoramento.
