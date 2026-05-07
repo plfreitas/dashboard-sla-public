@@ -4,11 +4,11 @@
 
 Este dashboard foi criado com o objetivo de centralizar e automatizar o controle de Pull Requests (PRs) e cadastros, substituindo processos manuais por uma interface de Business Intelligence em tempo real. O projeto foca em dar visibilidade à capacidade de entrega do time e garantir o cumprimento dos SLAs acordados.
 
-<img src="https://github.com/user-attachments/assets/415758a5-151d-405d-971c-238ef13188c7" width="100%" />
+<img width="1920" height="1080" alt="Imagem 1 dashboard" src="https://github.com/user-attachments/assets/fc2b3aa6-b887-40ae-af64-90ef428a0c93" />
 
-<img src="https://github.com/user-attachments/assets/c14681bb-cf7c-48da-8eae-da9a8d89b6dd" width="100%" />
+<img width="1920" height="1080" alt="Imagem 2 dashboard" src="https://github.com/user-attachments/assets/27d66685-8270-4749-969f-a76248b694e0" />
 
-<img src="https://github.com/user-attachments/assets/95dbd491-b435-41bf-af35-63e2390e7290" width="100%" />
+<img width="1920" height="1080" alt="Imagem 3 dashboard" src="https://github.com/user-attachments/assets/44e05693-a99a-4c6c-a253-8b829ca6936a" />
 
 ## 🎯 O Desafio
 A equipe de TI precisava de uma forma rápida de identificar gargalos, tarefas vencendo no dia e pendências de contratos que impediam a finalização dos cadastros. Sob a orientação do Head de TI (Felipe), desenvolvi esta solução para automatizar esse monitoramento.
