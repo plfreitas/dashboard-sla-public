@@ -20,4 +20,4 @@ A equipe de TI precisava de uma forma rápida de identificar gargalos, tarefas v
 - **Automação de Relatórios:** Exportação direta para `.xlsx` formatado, economizando horas de trabalho manual.
 
 ---
-*Projeto desenvolvido por [Pedro Luis] durante o estágio na CF Contabilidade.*
+*Projeto desenvolvido por **Pedro Luis** durante o estágio na CF Contabilidade.*
